@@ -36,12 +36,12 @@ const CONFIG = {
     },
     {
       platform: "github",
-      url: "https://github.com/jeffsongarreto",
+      url: "https://github.com/garreto9",
       ariaLabel: "Perfil no GitHub",
     },
     {
       platform: "email",
-      url: "mailto:contato@jeffsongarreto.com",
+      url: "mailto:jeffsongarreto@hotmail.com",
       ariaLabel: "Enviar e-mail",
     },
   ],
@@ -68,7 +68,7 @@ const CONFIG = {
           icon: "github",
           title: "GitHub",
           subtitle: "Projetos e desenvolvimento",
-          url: "https://github.com/jeffsongarreto",
+          url: "https://github.com/garreto9",
         },
         {
           icon: "linkedin",
